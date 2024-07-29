@@ -1,7 +1,7 @@
 # xlsx-to-json
-Excel dosyalarındaki verileri JSON formatına dönüştüren bir Python kodu.
-Bu proje, Excel dosyalarındaki verileri JSON formatına dönüştüren bir Python betiği sağlar. Bu araç, veri dönüşümünü ve entegrasyonunu kolaylaştırmak amacıyla geliştirilmiştir.
+This project provides a Python script that converts data from Excel files into JSON format. This tool is developed to facilitate data transformation and integration.
 
-Gereksinimler
+Requirements:
+
 Python
-Pandas kütüphanesi
+Pandas library
